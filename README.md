@@ -72,7 +72,7 @@ gcc main.c -o programa
 Execute:
 
 ```
-./programa
+programa.exe
 ```
 
 ---
